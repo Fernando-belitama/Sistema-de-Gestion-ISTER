@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <EmptySpace min="0" pref="1400" max="32767" attributes="0"/>
+              <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <EmptySpace min="0" pref="682" max="32767" attributes="0"/>
+              <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel2">
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="jLabel2" min="-2" pref="1380" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace min="-2" pref="70" max="-2" attributes="0"/>
+                                  <Component id="jLabel1" min="-2" pref="290" max="-2" attributes="0"/>
+                                  <EmptySpace min="20" pref="20" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="160" pref="160" max="-2" attributes="0"/>
+                                          <Component id="lblReloj" min="-2" pref="360" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="jLabel6" min="-2" pref="240" max="-2" attributes="0"/>
+                                          <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                                          <Component id="txtcedula" min="-2" pref="270" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="jLabel11" min="-2" pref="240" max="-2" attributes="0"/>
+                                          <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                                          <Component id="txtnombre" min="-2" pref="270" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="jLabel15" min="-2" pref="240" max="-2" attributes="0"/>
+                                          <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                                          <Component id="txtapellido" min="-2" pref="270" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="jLabel12" min="-2" pref="240" max="-2" attributes="0"/>
+                                          <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                                          <Component id="cmbcarrera" min="-2" pref="160" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="jLabel13" min="-2" pref="240" max="-2" attributes="0"/>
+                                          <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                                          <Component id="txtfecha" min="-2" pref="270" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="jLabel14" min="-2" pref="240" max="-2" attributes="0"/>
+                                          <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                                          <Component id="txttelefono" min="-2" pref="270" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace min="-2" pref="380" max="-2" attributes="0"/>
+                                  <Component id="jLabel8" min="-2" pref="240" max="-2" attributes="0"/>
+                                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                                  <Component id="txtemail" min="-2" pref="270" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace min="-2" pref="380" max="-2" attributes="0"/>
+                                  <Component id="jLabel10" min="-2" pref="240" max="-2" attributes="0"/>
+                                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                                  <Component id="txtcreditos" min="-2" pref="70" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace min="-2" pref="530" max="-2" attributes="0"/>
+                                  <Component id="btnLimpiar" min="-2" pref="110" max="-2" attributes="0"/>
+                                  <EmptySpace min="20" pref="20" max="-2" attributes="0"/>
+                                  <Component id="btnEditar" min="-2" pref="110" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace min="-2" pref="360" max="-2" attributes="0"/>
+                                  <Component id="jScrollPane1" min="-2" pref="770" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace pref="270" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace pref="634" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="61" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jLabel1" alignment="0" min="-2" pref="230" max="-2" attributes="0"/>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="lblReloj" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="43" pref="43" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jLabel6" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="txtcedula" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="9" pref="9" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jLabel11" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="txtnombre" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="9" pref="9" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jLabel15" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="txtapellido" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="9" pref="9" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jLabel12" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="cmbcarrera" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="9" pref="9" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jLabel13" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="txtfecha" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jLabel14" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="txttelefono" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <EmptySpace min="9" pref="9" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jLabel8" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtemail" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="9" pref="9" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jLabel10" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtcreditos" alignment="0" min="-2" pref="20" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="30" pref="30" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="btnLimpiar" alignment="0" min="-2" pref="30" max="-2" attributes="0"/>
+                              <Component id="btnEditar" alignment="0" min="-2" pref="30" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="40" pref="40" max="-2" attributes="0"/>
+                          <Component id="jScrollPane1" min="-2" pref="220" max="-2" attributes="0"/>
+                          <EmptySpace max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JTextField" name="txtapellido">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Century Schoolbook" size="12" style="0"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel14">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Century Schoolbook" size="14" style="1"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="4"/>
+                <Property name="text" type="java.lang.String" value="Tel&#xe9;fono:"/>
+              </Properties>
+            </Component>
+            <Component class="com.toedter.calendar.JDateChooser" name="txtfecha">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Century Schoolbook" size="12" style="0"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel13">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Century Schoolbook" size="14" style="1"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="4"/>
+                <Property name="text" type="java.lang.String" value="Fecha de Nacimiento:"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel12">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Century Schoolbook" size="14" style="1"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="4"/>
+                <Property name="text" type="java.lang.String" value="Carrera:"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel15">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Century Schoolbook" size="14" style="1"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="4"/>
+                <Property name="text" type="java.lang.String" value="Apellidos:"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel1">
+              <Properties>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/Imagenes/LogoSinBase.png"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="."/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txttelefono">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Century Schoolbook" size="12" style="0"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="keyTyped" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="txttelefonoKeyTyped"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel2">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Century Schoolbook" size="30" style="1"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="text" type="java.lang.String" value="INGRESO ESTUDIANTES"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtemail">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Century Schoolbook" size="12" style="0"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtcedula">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Century Schoolbook" size="12" style="0"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="keyReleased" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="txtcedulaKeyReleased"/>
+                <EventHandler event="keyTyped" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="txtcedulaKeyTyped"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="btnLimpiar">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Century Schoolbook" size="12" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="LIMPIAR"/>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.EtchedBorderInfo">
+                    <EtchetBorder/>
+                  </Border>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnLimpiarActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtnombre">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Century Schoolbook" size="12" style="0"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="btnEditar">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Century Schoolbook" size="12" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="GUARDAR"/>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.EtchedBorderInfo">
+                    <EtchetBorder/>
+                  </Border>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnEditarActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JComboBox" name="cmbcarrera">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Century Schoolbook" size="12" style="0"/>
+                </Property>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="7">
+                    <StringItem index="0" value="Sistemas"/>
+                    <StringItem index="1" value="Electr&#xf3;nica"/>
+                    <StringItem index="2" value="Electricidad"/>
+                    <StringItem index="3" value="Gastronom&#xed;a"/>
+                    <StringItem index="4" value="Turismo"/>
+                    <StringItem index="5" value="Dise&#xf1;o Gr&#xe1;fico"/>
+                    <StringItem index="6" value="Administraci&#xf3;n"/>
+                  </StringArray>
+                </Property>
+              </Properties>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+              </AuxValues>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtcreditos">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Century Schoolbook" size="12" style="0"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="keyTyped" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="txtcreditosKeyTyped"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel6">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Century Schoolbook" size="14" style="1"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="4"/>
+                <Property name="text" type="java.lang.String" value="ID:"/>
+              </Properties>
+            </Component>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTable" name="tabla">
+                  <Properties>
+                    <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                      <Table columnCount="6" rowCount="0">
+                        <Column editable="true" title="Id" type="java.lang.Object"/>
+                        <Column editable="false" title="Cedula" type="java.lang.Object"/>
+                        <Column editable="false" title="Nombre" type="java.lang.Object"/>
+                        <Column editable="false" title="Apellido" type="java.lang.Object"/>
+                        <Column editable="false" title="Carrera" type="java.lang.Object"/>
+                        <Column editable="false" title="Creditos" type="java.lang.Object"/>
+                      </Table>
+                    </Property>
+                    <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+                      <TableColumnModel selectionModel="0">
+                        <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                        <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                        <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                        <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                        <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                        <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                      </TableColumnModel>
+                    </Property>
+                    <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                      <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="tablaMouseClicked"/>
+                  </Events>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JLabel" name="jLabel11">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Century Schoolbook" size="14" style="1"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="4"/>
+                <Property name="text" type="java.lang.String" value="Nombres:"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel10">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Century Schoolbook" size="14" style="1"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="4"/>
+                <Property name="text" type="java.lang.String" value="Cr&#xe9;ditos:"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="lblReloj">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Century Schoolbook" size="14" style="1"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="text" type="java.lang.String" value="RELOJ"/>
+              </Properties>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+              </AuxValues>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel8">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Century Schoolbook" size="14" style="1"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="4"/>
+                <Property name="text" type="java.lang.String" value="e-mail:"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
